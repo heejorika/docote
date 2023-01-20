@@ -10,7 +10,7 @@
 - **출력 값**
     - 배열 A의 모든 원소의 합이 최대가 될 수 있는 합
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd1bf17a-7379-4841-bead-dc8be888737a/Untitled.png)
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd1bf17a-7379-4841-bead-dc8be888737a/Untitled.png)
 
 ## 🔆예외 사항
 
@@ -23,7 +23,7 @@
     - 배열의 모든 원소는 1이상 10,000,000보다 작은 자연수인가
     - 문자열이 들어갔을 경우
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20be3922-2f2f-4f44-a180-c18f729ab0b7/Untitled.png)
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20be3922-2f2f-4f44-a180-c18f729ab0b7/Untitled.png)
 
 ## 🔆기능 사항
 
