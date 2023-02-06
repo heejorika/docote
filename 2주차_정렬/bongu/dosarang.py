@@ -78,3 +78,5 @@ class TteokCut:
 if __name__ == "__main__":
     tc = TteokCut()  # 객체 생성
     tc.run()  # 떡볶이 떡 자르기 프로그램 실행
+    
+# git test 
